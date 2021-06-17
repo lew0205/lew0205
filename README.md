@@ -1,6 +1,9 @@
 ### Hi there 👋
 <!--
 **lew0205/lew0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm student of the GwangJu Software Meister Highschool
+I'm intersted in developing Game with Unity
+I'm learning Unity, C language, html
 
 Here are some ideas to get you started:
 
