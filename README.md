@@ -6,5 +6,5 @@
 
 #### 📘I'm learning Unity, C language, html  
 
-![lew0205's GitHub stats](https://github-readme-stats.vercel.app/api?username=lew0205&show_icons=true&theme=synthwave)
-
+![lew0205's GitHub stats](https://github-readme-stats.vercel.app/api?username=lew0205&theme=solarized-light&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lew0205&layout=compact)](https://github.com/lew0205/github-readme-stats)
