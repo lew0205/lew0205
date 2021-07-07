@@ -14,7 +14,7 @@
 ### Languages
 <img src="https://img.shields.io/badge/Unity-yellow?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/CS-orange?style=flat-square&logo=C%20sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C-9cf?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/html-blueviolet?style=flat-square&logo=HTML5&logoColor=white"/>
 <hr>
-<img src="https://img.shields.io/badge/Cocos2d_X&color=#D5B0EB?style=flat-square&logo=cocos&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal Engine 5-#EEE156?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/C++-green?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cocos2d_X-lightyellow?style=flat-square&logo=cocos&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal Engine 5-#EEE156?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/C++-green?style=flat-square&logo=cplusplus&logoColor=white"/>
 
 <hr>
 
