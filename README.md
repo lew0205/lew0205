@@ -1,7 +1,7 @@
 ![20210612_221956_12](https://user-images.githubusercontent.com/80537533/124598528-b010f600-de9f-11eb-8e9a-a5e9ce8e43f8.jpg)
 
 
-# EunWoo Lee 🐳
+# EunWoo Lee 🐧
 
 #### 🏫I'm student in GwangJu Software Meister Highschool  
 
