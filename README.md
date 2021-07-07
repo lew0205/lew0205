@@ -9,7 +9,7 @@
 
 #### 📘I'm learning Unity, C language, html  
 
-#### I want to learn Cocos2d-x, Unreal Engine 5.<img src="https://img.shields.io/badge/C++-green?style=flat-square&logo#00599C&logoColor=white"/>
+#### I want to learn Cocos2d-x, Unreal Engine 5.
 
 ### Languages
 <img src="https://img.shields.io/badge/Unity-yellow?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/CS-orange?style=flat-square&logo=C%20sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C-9cf?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/html-blueviolet?style=flat-square&logo=HTML5&logoColor=white"/>
