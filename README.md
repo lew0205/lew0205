@@ -9,7 +9,7 @@
 
 #### 📘I'm learning Unity, C language, html  
 
-#### I want to learn <img src="https://img.shields.io/badge/Cocos2d_x-green?style=flat-square&logo=cocos&logoColor=#AFABEE"/>, <img src="https://img.shields.io/badge/Unreal Engine 5-green?style=flat-square&logo=unrealengine&logoColor=#EEE156"/>.<img src="https://img.shields.io/badge/C++-green?style=flat-square&logo=cplusplus&logoColor=white"/>
+#### I want to learn <img src="https://img.shields.io/badge/Cocos2d_X-green?style=flat-square&logo=cocos&logoColor=#AFABEE"/> <img src="https://img.shields.io/badge/Unreal Engine 5-green?style=flat-square&logo=unrealengine&logoColor=#EEE156"/>.<img src="https://img.shields.io/badge/C++-green?style=flat-square&logo=cplusplus&logoColor=white"/>
 
 ### Languages
 <img src="https://img.shields.io/badge/Unity-yellow?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/CS-orange?style=flat-square&logo=C%20sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C-9cf?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/html-blueviolet?style=flat-square&logo=HTML5&logoColor=white"/>
