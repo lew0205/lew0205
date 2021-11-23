@@ -16,7 +16,7 @@
 ### Wanna Learn
 <img src="https://img.shields.io/badge/Cocos2d_X-yellow?style=flat-square&logo=cocos&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal Engine 5-lightpurple?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/C++-green?style=flat-square&logo=cplusplus&logoColor=white"/>
 ### Learning
-<br>JLPT N5<br>
+JLPT N5<br>
 정보처리기능사 실기 11/27<hr>
 
 
