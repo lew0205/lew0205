@@ -17,8 +17,8 @@
 <img src="https://img.shields.io/badge/Cocos2d_X-yellow?style=flat-square&logo=cocos&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal Engine 5-lightpurple?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/C++-green?style=flat-square&logo=cplusplus&logoColor=white"/>
 ### Studying
 JLPT N5 2022년 1회<br>
-정보처리기능사 실기 11/27 <hr> 
-
-
+정보처리기능사 실기 11/27 (done)<hr> 
+### Certificate
+정보처리기능사 (maybe)
 ![lew0205's GitHub stats](https://github-readme-stats.vercel.app/api?username=lew0205&theme=solarized-light&show_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lew0205&layout=Demo)](https://github.com/lew0205/github-readme-stats)
