@@ -7,7 +7,7 @@
 
 #### I'm intersted in developing Game with Unity🎮✏  
 
-#### 📘I'm learning Unity, Java, C#
+#### 📘I'm studing Unity, C#
 
 
 
