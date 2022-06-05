@@ -5,9 +5,10 @@
 
 #### 🏫I'm student in GwangJu Software Meister Highschool  
 
-#### I'm intersted in developing Game with Unity🎮✏  
+#### I'm intersted in developing Game with Unity🎮✏
+#### I'm intersted in backendSkills
 
-#### 📘I'm studing Unity, C#
+#### 📘I'm studing Unity, C#, Spring
 
 
 
