@@ -5,17 +5,14 @@
 
 #### 🏫I'm student in GwangJu Software Meister Highschool  
 
-#### I'm intersted in developing Game with Unity🎮✏
 #### I'm intersted in backendSkills
 
-#### 📘I'm studing Unity, C#, Spring
+#### 📘I'm studying Spring
 
 
 
 ### Skills
 <img src="https://img.shields.io/badge/Unity-yellow?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/CS-orange?style=flat-square&logo=C%20sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C-9cf?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/html-blueviolet?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/>
-### Wanna Learn
-<img src="https://img.shields.io/badge/Cocos2d_X-yellow?style=flat-square&logo=cocos&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal Engine 5-lightpurple?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/C++-green?style=flat-square&logo=cplusplus&logoColor=white"/>
 ### Studying
 JLPT N3 2022년 3회<br>
 ### Certificate
