@@ -12,7 +12,7 @@
 
 
 ### Skills
-<img src="https://img.shields.io/badge/Unity-yellow?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/CS-orange?style=flat-square&logo=C%20sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C-9cf?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/html-blueviolet?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-yellow?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/CS-orange?style=flat-square&logo=C%20sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C-9cf?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/html-blueviolet?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white"/>
 ### Studying
 JLPT N3 2022년 3회<br>
 ### Certificate
