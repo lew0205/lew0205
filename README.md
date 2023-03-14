@@ -9,10 +9,6 @@
 
 #### 📘I'm studying Spring
 
-
-
-### Skills
-<img src="https://img.shields.io/badge/Unity-yellow?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/CS-orange?style=flat-square&logo=C%20sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C-9cf?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/html-blueviolet?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=JAVA&logoColor=white"/>
 ### Certificates
 - 정보처리기능사<br>
 - 정보처리산업기사<hr>
