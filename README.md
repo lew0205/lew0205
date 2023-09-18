@@ -5,9 +5,10 @@
 
 #### 🏫I'm student in GwangJu Software Meister Highschool  
 
-#### I'm intersted in backendSkills
+#### I'm intersted in developing server with spring
 
-#### 📘I'm studying Spring
+### I use these languages
+Java, Kotlin
 
 ### Certificates
 - 정보처리기능사<br>
