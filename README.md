@@ -5,10 +5,14 @@
 
 #### 🏫I'm student in GwangJu Software Meister Highschool  
 
-#### I'm intersted in developing server with spring
+#### I'm intersted in spring
 
-### I use these languages
-Java, Kotlin
+### My Skills
+Java, Kotlin<br>
+Spring boot<br>
+JPA<br>
+MySQL, Redis<br>
+AWS EC2
 
 ### Certificates
 - 정보처리기능사<br>
